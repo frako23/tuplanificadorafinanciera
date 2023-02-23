@@ -1,0 +1,14 @@
+.eljumbo{
+
+    height: 500px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://img.freepik.com/foto-gratis/retrato-empresaria-joven-que-sienta-escritorio-que-sostiene-tableta-digital-su-mano_23-2147943737.jpg?w=1380&t=st=1666817896~exp=1666818496~hmac=b4db2e4f79f55ab0f933b959dc654bed3f095befe54d46107f8c3a91f100d70c");
+    color: white;
+}
+
+.texto{
+padding-top: 20%;
+  justify-content: center;
+  align-items: center;
+   text-align: start;
+}
+
